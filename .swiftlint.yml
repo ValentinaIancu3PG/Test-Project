@@ -1,0 +1,10 @@
+#typing in the Terminal "swiftlint rules" you can check your settings
+
+line_length: 120
+
+disabled_rules:
+  - todo
+  - operator_whitespace
+
+excluded:
+- Pods
